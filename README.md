@@ -1,2 +1,2 @@
-# COMP2521-25T1
-Tutor resources for COMP2521 25T1
+# COMP2521-25T2
+Tutor resources for COMP2521 25T2!
